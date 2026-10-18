@@ -1,0 +1,14 @@
+.git
+.next
+node_modules
+.venv
+backend/
+.env
+.env.*
+coverage
+out
+dist
+*.db
+*.sqlite3
+**/__pycache__
+**/*.py[cod]
